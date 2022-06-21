@@ -1,1 +1,4 @@
-KUEAKUN NIYOMSIT
+```python
+name = "Kueakun Niyomsit"
+print name
+```
