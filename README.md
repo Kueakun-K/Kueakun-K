@@ -7,7 +7,8 @@
 
 #### Connect with me
 - Email : Kueakun0112@gmail.com
-- Instagram : [kueakun.k](https://www.instagram.com/kueakun.k/)
+- Linkedin : <a href="https://www.linkedin.com/in/kueakun-niyomsit-369457255/" target="_blank" rel="noreferrer">Kueakun Niyomsit</a>
+- Instagram : <a href="https://www.instagram.com/kueakun.k/" target="_blank" rel="noreferrer">kueakun.k</a>
 
 #### Languages and Tools
 <p>
